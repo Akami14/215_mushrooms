@@ -7,3 +7,5 @@ The dataset was created with the images, that were obtained from WildFoodUK. I'm
 Inspiration
 
 The original idea was to create an android application with mushrooms detection capabilities, but all that was done is this dataset.
+
+https://www.kaggle.com/datasets/daniilonishchenko/mushrooms-images-classification-215/data
